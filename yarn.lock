@@ -6936,9 +6936,9 @@ map-visit@^1.0.0:
     object-visit "^1.0.0"
 
 marked@^9.1.0:
-  version "9.1.0"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-9.1.0.tgz#7a085c7d46730dee2b801f1c1b35c5745479e270"
-  integrity sha512-VZjm0PM5DMv7WodqOUps3g6Q7dmxs9YGiFUZ7a2majzQTTCgX+6S6NAJHPvOhgFBzYz8s4QZKWWMfZKFmsfOgA==
+  version "9.1.6"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-9.1.6.tgz#5d2a3f8180abfbc5d62e3258a38a1c19c0381695"
+  integrity sha512-jcByLnIFkd5gSXZmjNvS1TlmRhCXZjIzHYlaGkPlLIekG55JDR2Z4va9tZwCiP+/RDERiNhMOFu01xd6O5ct1Q==
 
 matcher@^1.0.0:
   version "1.1.1"
